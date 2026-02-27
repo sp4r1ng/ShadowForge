@@ -4,6 +4,10 @@ EDR evasion research framework — C++17, x64, Windows.
 
 > **Educational / Lab use only.** Do not use against systems you do not own.
 
+---
+
+![](115750.png)
+
 ## Modules
 
 | # | Module | Description |
@@ -105,3 +109,4 @@ python3 tools/encrypt_shellcode.py payload.bin --key-string "my_secret" -o encry
 ## Disclaimer
 
 This tool is intended **strictly for educational purposes and authorized security research**. The author is not responsible for any misuse. Always obtain proper authorization before testing against any system.
+
